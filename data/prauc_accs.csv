@@ -1,0 +1,17 @@
+model,dataset,n_sig_bh6
+ecfp4,BBBP,0
+ecfp4,BACE,1
+ecfp4,HIV,0
+ecfp4,ClinTox,0
+gcn,BBBP,0
+gcn,BACE,1
+gcn,HIV,5
+gcn,ClinTox,4
+gin,BBBP,1
+gin,BACE,2
+gin,HIV,5
+gin,ClinTox,4
+gat,BBBP,0
+gat,BACE,0
+gat,HIV,1
+gat,ClinTox,0
