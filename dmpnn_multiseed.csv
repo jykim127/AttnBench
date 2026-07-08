@@ -1,0 +1,8 @@
+dataset,pooled_mean,pooled_sd,n_sig_bh6,n_effect
+BBBP,0.049,0.028,4,6
+BACE,0.043,0.010,1,6
+HIV,0.069,0.027,4,6
+ClinTox,0.249,0.099,4,6
+ESOL,0.272,0.180,4,6
+Lipophilicity,0.328,0.145,6,6
+FreeSolv,0.791,0.337,6,6
